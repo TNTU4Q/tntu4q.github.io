@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tntu4q.github.io</id>
+    <title>xghub小站</title>
+    <updated>2024-03-21T12:05:37.450Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tntu4q.github.io"/>
+    <link rel="self" href="https://tntu4q.github.io/atom.xml"/>
+    <logo>https://tntu4q.github.io/images/avatar.png</logo>
+    <icon>https://tntu4q.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, xghub小站</rights>
+    <entry>
+        <title type="html"><![CDATA[新人勿点]]></title>
+        <id>https://tntu4q.github.io/post/shi-ge-ren-cai/</id>
+        <link href="https://tntu4q.github.io/post/shi-ge-ren-cai/">
+        </link>
+        <updated>2024-03-12T02:57:01.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://tntu4q.github.io/post-images/1710212336593.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
